@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/1T9tVrQ/toy-bricks-table-with-word-blog-144627-47465.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "John Doe",
+        "author_img": "https://images.unsplash.com/photo-1502741126161-b048400d00c8",
+        "posted_date": "2024-07-01",
+        "reading_time": "5",
+        "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/w4yT9fT/bloggingblog-concepts-ideas-white-worktable-260nw-1029506242.webp",
+        "title": "The Impact of Climate Change",
+        "author": "Jane Smith",
+        "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b4",
+        "posted_date": "2024-07-02",
+        "reading_time": "8",
+        "hashtags": ["#ClimateChange", "#Environment", "#Sustainability"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/WKGGHFY/technology-communication-icons-symbols-concept.jpg",
+        "title": "The Rise of Electric Vehicles",
+        "author": "Emily Johnson",
+        "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+        "posted_date": "2024-07-03",
+        "reading_time": "7",
+        "hashtags": ["#ElectricVehicles", "#Transportation", "#Future"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/L1v6Nt7/teamwork-making-online-blog.jpg",
+        "title": "Healthy Eating Habits",
+        "author": "Michael Brown",
+        "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "posted_date": "2024-07-04",
+        "reading_time": "6",
+        "hashtags": ["#Health", "#Nutrition", "#Wellness"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/L1v6Nt7/teamwork-making-online-blog.jpg",
+        "title": "Traveling on a Budget",
+        "author": "Sarah Davis",
+        "author_img": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263",
+        "posted_date": "2024-07-05",
+        "reading_time": "4",
+        "hashtags": ["#Travel", "#BudgetTravel", "#Adventure"]
+    }
+]
